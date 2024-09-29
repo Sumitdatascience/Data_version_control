@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\SUMIT\AppData\Local\Temp\cs_soft_storage
